@@ -1,0 +1,8 @@
+docarray
+langchain-core
+langchain
+langchain-community
+langchain_ollama
+jupyterlab
+pypdf
+python-dotenv
