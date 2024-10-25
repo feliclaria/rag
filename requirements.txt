@@ -4,5 +4,7 @@ langchain
 langchain-community
 langchain_ollama
 jupyterlab
+pandas
+pinecone
 pypdf
 python-dotenv
