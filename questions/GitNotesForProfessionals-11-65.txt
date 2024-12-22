@@ -1,0 +1,20 @@
+Explain what parameters can be passed to the `git diff` command
+Explain what parameters can be passed to the `git push` command
+Give me an example for a .gitignore file
+How can I add changes by hunk, interactively?
+How can I colorize logs? How can I filter logs by date?
+How can I commit in behalf of someone else?
+How can I make git strop tracking specific files?
+How can I move a submodule in git version greater than 1.8?
+What command does the author recommend ro run for finding all branches with no merged changes in Git?
+What does the command `git submodule foreach git pull` do?
+What is Section 5.6 about? Can you summarize it?
+What is a git branch?
+What is a git repository?
+What is the source of this article?
+What is the text about?
+Whit git version allows to use the `git status --ignored` command? What does it do?
+Who created git?
+Who is Luke's father?
+Who is the author of the text?
+Who is the president of the United States?
