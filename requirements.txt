@@ -8,3 +8,4 @@ pandas
 pinecone
 pypdf
 python-dotenv
+reportlab
